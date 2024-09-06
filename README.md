@@ -1,2 +1,3 @@
 # -Lightweight_IDS_with_Autoencoder_in_kernel_space
 これらのプログラムは、軽量のニューラルネットワークおよびオートエンコーダモデルによって強化されたeBPF/XDPベースのパケット処理です。
+学習用データセットCIC-IDS2017は含まれていません。
